@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{489264B0-D151-407E-AE55-804AE8BD5D13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{489264B0-D151-407E-AE55-804AE8BD5D13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{79C0CD54-AA0F-43A7-8411-344A3C4EFF57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HataYonetimi", "HataYonetimi\HataYonetimi.csproj", "{79C0CD54-AA0F-43A7-8411-344A3C4EFF57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_Else", "If_Else\If_Else.csproj", "{B35F6AC8-EE09-4409-9DF4-0F3DBF21A557}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "If_Else", "If_Else\If_Else.csproj", "{B35F6AC8-EE09-4409-9DF4-0F3DBF21A557}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Switch_Case", "Switch_Case\Switch_Case.csproj", "{439572DA-1309-46DB-A63C-B6856ABE6C4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Switch_Case", "Switch_Case\Switch_Case.csproj", "{439572DA-1309-46DB-A63C-B6856ABE6C4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For_loop", "For_loop\For_loop.csproj", "{AC8F0B65-B2DB-4E94-BEFD-E2F4CD8FF43D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For_loop", "For_loop\For_loop.csproj", "{AC8F0B65-B2DB-4E94-BEFD-E2F4CD8FF43D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{E3C941F0-E9E6-42E0-A0A3-57E5097C779E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AC8F0B65-B2DB-4E94-BEFD-E2F4CD8FF43D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC8F0B65-B2DB-4E94-BEFD-E2F4CD8FF43D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC8F0B65-B2DB-4E94-BEFD-E2F4CD8FF43D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C941F0-E9E6-42E0-A0A3-57E5097C779E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C941F0-E9E6-42E0-A0A3-57E5097C779E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C941F0-E9E6-42E0-A0A3-57E5097C779E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C941F0-E9E6-42E0-A0A3-57E5097C779E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
