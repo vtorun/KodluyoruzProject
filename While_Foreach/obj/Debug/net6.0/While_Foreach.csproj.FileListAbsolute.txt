@@ -1,0 +1,15 @@
+D:\KodluyoruzProject-master\While_Foreach\bin\Debug\net6.0\While_Foreach.exe
+D:\KodluyoruzProject-master\While_Foreach\bin\Debug\net6.0\While_Foreach.deps.json
+D:\KodluyoruzProject-master\While_Foreach\bin\Debug\net6.0\While_Foreach.runtimeconfig.json
+D:\KodluyoruzProject-master\While_Foreach\bin\Debug\net6.0\While_Foreach.dll
+D:\KodluyoruzProject-master\While_Foreach\bin\Debug\net6.0\ref\While_Foreach.dll
+D:\KodluyoruzProject-master\While_Foreach\bin\Debug\net6.0\While_Foreach.pdb
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.AssemblyReference.cache
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfo.cs
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.dll
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\ref\While_Foreach.dll
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.pdb
+D:\KodluyoruzProject-master\While_Foreach\obj\Debug\net6.0\While_Foreach.genruntimeconfig.cache
