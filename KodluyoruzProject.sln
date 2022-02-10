@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "For_loop", "For_loop\For_lo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{E3C941F0-E9E6-42E0-A0A3-57E5097C779E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler_Array_Sinifi_Metodları", "Diziler_Array_Sinifi_Metodları\Diziler_Array_Sinifi_Metodları.csproj", "{30603A32-C9E7-4785-A27D-D5CAC738705E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler_Array_Sinifi_Metodlari", "Diziler_Array_Sinifi_Metodları\Diziler_Array_Sinifi_Metodlari.csproj", "{30603A32-C9E7-4785-A27D-D5CAC738705E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

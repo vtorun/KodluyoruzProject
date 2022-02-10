@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Diziler_Array_Sinifi_Metodları
+namespace Diziler_Array_Sinifi_Metodlari
 {
     class Program
     {
