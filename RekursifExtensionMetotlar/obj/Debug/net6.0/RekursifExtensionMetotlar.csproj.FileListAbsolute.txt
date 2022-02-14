@@ -1,0 +1,15 @@
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\bin\Debug\net6.0\RekursifExtensionMetotlar.exe
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\bin\Debug\net6.0\RekursifExtensionMetotlar.deps.json
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\bin\Debug\net6.0\RekursifExtensionMetotlar.runtimeconfig.json
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\bin\Debug\net6.0\RekursifExtensionMetotlar.dll
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\bin\Debug\net6.0\ref\RekursifExtensionMetotlar.dll
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\bin\Debug\net6.0\RekursifExtensionMetotlar.pdb
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.csproj.AssemblyReference.cache
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.AssemblyInfo.cs
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.dll
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\ref\RekursifExtensionMetotlar.dll
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.pdb
+D:\KodluyoruzProject-master\RekursifExtensionMetotlar\obj\Debug\net6.0\RekursifExtensionMetotlar.genruntimeconfig.cache
