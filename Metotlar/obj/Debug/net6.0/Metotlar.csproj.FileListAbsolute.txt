@@ -1,0 +1,15 @@
+D:\KodluyoruzProject-master\Metotlar\bin\Debug\net6.0\Metotlar.exe
+D:\KodluyoruzProject-master\Metotlar\bin\Debug\net6.0\Metotlar.deps.json
+D:\KodluyoruzProject-master\Metotlar\bin\Debug\net6.0\Metotlar.runtimeconfig.json
+D:\KodluyoruzProject-master\Metotlar\bin\Debug\net6.0\Metotlar.dll
+D:\KodluyoruzProject-master\Metotlar\bin\Debug\net6.0\ref\Metotlar.dll
+D:\KodluyoruzProject-master\Metotlar\bin\Debug\net6.0\Metotlar.pdb
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.csproj.AssemblyReference.cache
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.AssemblyInfo.cs
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.dll
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\ref\Metotlar.dll
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.pdb
+D:\KodluyoruzProject-master\Metotlar\obj\Debug\net6.0\Metotlar.genruntimeconfig.cache

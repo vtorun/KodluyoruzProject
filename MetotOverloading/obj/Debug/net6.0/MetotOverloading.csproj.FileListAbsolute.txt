@@ -1,0 +1,15 @@
+D:\KodluyoruzProject-master\MetotOverloading\bin\Debug\net6.0\MetotOverloading.exe
+D:\KodluyoruzProject-master\MetotOverloading\bin\Debug\net6.0\MetotOverloading.deps.json
+D:\KodluyoruzProject-master\MetotOverloading\bin\Debug\net6.0\MetotOverloading.runtimeconfig.json
+D:\KodluyoruzProject-master\MetotOverloading\bin\Debug\net6.0\MetotOverloading.dll
+D:\KodluyoruzProject-master\MetotOverloading\bin\Debug\net6.0\ref\MetotOverloading.dll
+D:\KodluyoruzProject-master\MetotOverloading\bin\Debug\net6.0\MetotOverloading.pdb
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.csproj.AssemblyReference.cache
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.AssemblyInfo.cs
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.dll
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\ref\MetotOverloading.dll
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.pdb
+D:\KodluyoruzProject-master\MetotOverloading\obj\Debug\net6.0\MetotOverloading.genruntimeconfig.cache
