@@ -1,0 +1,14 @@
+D:\KodluyoruzProject-master\StringMetotlar\bin\Debug\net6.0\StringMetotlar.exe
+D:\KodluyoruzProject-master\StringMetotlar\bin\Debug\net6.0\StringMetotlar.deps.json
+D:\KodluyoruzProject-master\StringMetotlar\bin\Debug\net6.0\StringMetotlar.runtimeconfig.json
+D:\KodluyoruzProject-master\StringMetotlar\bin\Debug\net6.0\StringMetotlar.dll
+D:\KodluyoruzProject-master\StringMetotlar\bin\Debug\net6.0\ref\StringMetotlar.dll
+D:\KodluyoruzProject-master\StringMetotlar\bin\Debug\net6.0\StringMetotlar.pdb
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\StringMetotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\StringMetotlar.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\StringMetotlar.AssemblyInfo.cs
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\StringMetotlar.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\StringMetotlar.dll
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\ref\StringMetotlar.dll
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\StringMetotlar.pdb
+D:\KodluyoruzProject-master\StringMetotlar\obj\Debug\net6.0\StringMetotlar.genruntimeconfig.cache
