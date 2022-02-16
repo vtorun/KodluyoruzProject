@@ -1,0 +1,14 @@
+D:\KodluyoruzProject-master\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.exe
+D:\KodluyoruzProject-master\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.deps.json
+D:\KodluyoruzProject-master\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.runtimeconfig.json
+D:\KodluyoruzProject-master\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.dll
+D:\KodluyoruzProject-master\DateTimeandMath\bin\Debug\net6.0\ref\DateTimeandMath.dll
+D:\KodluyoruzProject-master\DateTimeandMath\bin\Debug\net6.0\DateTimeandMath.pdb
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.AssemblyInfo.cs
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.dll
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\ref\DateTimeandMath.dll
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.pdb
+D:\KodluyoruzProject-master\DateTimeandMath\obj\Debug\net6.0\DateTimeandMath.genruntimeconfig.cache
