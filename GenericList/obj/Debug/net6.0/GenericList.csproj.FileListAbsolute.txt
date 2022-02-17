@@ -1,0 +1,14 @@
+D:\KodluyoruzProject-master\GenericList\bin\Debug\net6.0\GenericList.exe
+D:\KodluyoruzProject-master\GenericList\bin\Debug\net6.0\GenericList.deps.json
+D:\KodluyoruzProject-master\GenericList\bin\Debug\net6.0\GenericList.runtimeconfig.json
+D:\KodluyoruzProject-master\GenericList\bin\Debug\net6.0\GenericList.dll
+D:\KodluyoruzProject-master\GenericList\bin\Debug\net6.0\ref\GenericList.dll
+D:\KodluyoruzProject-master\GenericList\bin\Debug\net6.0\GenericList.pdb
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfo.cs
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\GenericList.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\GenericList.dll
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\ref\GenericList.dll
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\GenericList.pdb
+D:\KodluyoruzProject-master\GenericList\obj\Debug\net6.0\GenericList.genruntimeconfig.cache
