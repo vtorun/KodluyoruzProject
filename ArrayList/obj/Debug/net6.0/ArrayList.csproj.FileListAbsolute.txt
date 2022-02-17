@@ -1,0 +1,14 @@
+D:\KodluyoruzProject-master\ArrayList\bin\Debug\net6.0\ArrayList.exe
+D:\KodluyoruzProject-master\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+D:\KodluyoruzProject-master\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+D:\KodluyoruzProject-master\ArrayList\bin\Debug\net6.0\ArrayList.dll
+D:\KodluyoruzProject-master\ArrayList\bin\Debug\net6.0\ref\ArrayList.dll
+D:\KodluyoruzProject-master\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ArrayList.dll
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+D:\KodluyoruzProject-master\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
