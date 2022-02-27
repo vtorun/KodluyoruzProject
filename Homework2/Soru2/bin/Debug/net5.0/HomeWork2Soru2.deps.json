@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "HomeWork2Soru2/1.0.0": {
+        "runtime": {
+          "HomeWork2Soru2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HomeWork2Soru2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

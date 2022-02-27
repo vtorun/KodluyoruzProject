@@ -1,0 +1,16 @@
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\bin\Debug\net5.0\HomeWork2Soru2.exe
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\bin\Debug\net5.0\HomeWork2Soru2.deps.json
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\bin\Debug\net5.0\HomeWork2Soru2.runtimeconfig.json
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\bin\Debug\net5.0\HomeWork2Soru2.runtimeconfig.dev.json
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\bin\Debug\net5.0\HomeWork2Soru2.dll
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\bin\Debug\net5.0\ref\HomeWork2Soru2.dll
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\bin\Debug\net5.0\HomeWork2Soru2.pdb
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.AssemblyInfoInputs.cache
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.AssemblyInfo.cs
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.csproj.CoreCompileInputs.cache
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.dll
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\ref\HomeWork2Soru2.dll
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.pdb
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.genruntimeconfig.cache
+C:\Users\Volkan\source\repos\KodluyoruzProject\HomeWork2Soru2\obj\Debug\net5.0\HomeWork2Soru2.csproj.AssemblyReference.cache
