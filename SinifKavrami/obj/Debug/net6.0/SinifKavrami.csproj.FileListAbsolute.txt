@@ -1,0 +1,14 @@
+D:\KodluyoruzProject-master\SinifKavrami\bin\Debug\net6.0\SinifKavrami.exe
+D:\KodluyoruzProject-master\SinifKavrami\bin\Debug\net6.0\SinifKavrami.deps.json
+D:\KodluyoruzProject-master\SinifKavrami\bin\Debug\net6.0\SinifKavrami.runtimeconfig.json
+D:\KodluyoruzProject-master\SinifKavrami\bin\Debug\net6.0\SinifKavrami.dll
+D:\KodluyoruzProject-master\SinifKavrami\bin\Debug\net6.0\ref\SinifKavrami.dll
+D:\KodluyoruzProject-master\SinifKavrami\bin\Debug\net6.0\SinifKavrami.pdb
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\SinifKavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\SinifKavrami.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\SinifKavrami.AssemblyInfo.cs
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\SinifKavrami.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\SinifKavrami.dll
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\ref\SinifKavrami.dll
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\SinifKavrami.pdb
+D:\KodluyoruzProject-master\SinifKavrami\obj\Debug\net6.0\SinifKavrami.genruntimeconfig.cache
