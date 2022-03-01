@@ -1,0 +1,14 @@
+D:\KodluyoruzProject-master\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+D:\KodluyoruzProject-master\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+D:\KodluyoruzProject-master\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+D:\KodluyoruzProject-master\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+D:\KodluyoruzProject-master\Encapsulation\bin\Debug\net6.0\ref\Encapsulation.dll
+D:\KodluyoruzProject-master\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+D:\KodluyoruzProject-master\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
