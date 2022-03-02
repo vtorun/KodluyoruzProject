@@ -1,0 +1,15 @@
+D:\KodluyoruzProject-master\StaticSiniflar\bin\Debug\net6.0\StaticSiniflar.exe
+D:\KodluyoruzProject-master\StaticSiniflar\bin\Debug\net6.0\StaticSiniflar.deps.json
+D:\KodluyoruzProject-master\StaticSiniflar\bin\Debug\net6.0\StaticSiniflar.runtimeconfig.json
+D:\KodluyoruzProject-master\StaticSiniflar\bin\Debug\net6.0\StaticSiniflar.dll
+D:\KodluyoruzProject-master\StaticSiniflar\bin\Debug\net6.0\ref\StaticSiniflar.dll
+D:\KodluyoruzProject-master\StaticSiniflar\bin\Debug\net6.0\StaticSiniflar.pdb
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.csproj.AssemblyReference.cache
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.GeneratedMSBuildEditorConfig.editorconfig
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.AssemblyInfoInputs.cache
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.AssemblyInfo.cs
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.csproj.CoreCompileInputs.cache
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.dll
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\ref\StaticSiniflar.dll
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.pdb
+D:\KodluyoruzProject-master\StaticSiniflar\obj\Debug\net6.0\StaticSiniflar.genruntimeconfig.cache
